@@ -1,0 +1,10 @@
+C:\Users\Andrei\Desktop\FlipDaCoins\FlipDaCoins\bin\Debug\FlipDaCoins.exe.config
+C:\Users\Andrei\Desktop\FlipDaCoins\FlipDaCoins\bin\Debug\FlipDaCoins.exe
+C:\Users\Andrei\Desktop\FlipDaCoins\FlipDaCoins\bin\Debug\FlipDaCoins.pdb
+C:\Users\Andrei\Desktop\FlipDaCoins\FlipDaCoins\obj\Debug\FlipDaCoins.csprojAssemblyReference.cache
+C:\Users\Andrei\Desktop\FlipDaCoins\FlipDaCoins\obj\Debug\FlipDaCoins.Form1.resources
+C:\Users\Andrei\Desktop\FlipDaCoins\FlipDaCoins\obj\Debug\FlipDaCoins.Properties.Resources.resources
+C:\Users\Andrei\Desktop\FlipDaCoins\FlipDaCoins\obj\Debug\FlipDaCoins.csproj.GenerateResource.cache
+C:\Users\Andrei\Desktop\FlipDaCoins\FlipDaCoins\obj\Debug\FlipDaCoins.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\FlipDaCoins\FlipDaCoins\obj\Debug\FlipDaCoins.exe
+C:\Users\Andrei\Desktop\FlipDaCoins\FlipDaCoins\obj\Debug\FlipDaCoins.pdb
